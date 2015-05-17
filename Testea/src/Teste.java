@@ -4,6 +4,7 @@ public class Teste {
 	/*
 	Modificação da classe bem sucedida no repositorio.
 	Tentando recuperar os dados de commit perdidos com um CHECKOUT equivocado.
+	Foi preciso apagar a pasta e clonar novamente.
 	*/
 
 	public String nome;
