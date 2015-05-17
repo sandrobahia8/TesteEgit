@@ -1,5 +1,9 @@
 
 public class Teste {
+	
+	/*
+	Modificação da classe bem sucedida no repositorio.
+	*/
 
 	public String nome;
 		
