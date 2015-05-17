@@ -3,6 +3,7 @@ public class Teste {
 	
 	/*
 	Modificação da classe bem sucedida no repositorio.
+	Tentando recuperar os dados de commit perdidos com um CHECKOUT equivocado.
 	*/
 
 	public String nome;
